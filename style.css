@@ -1,81 +1,80 @@
-<style>
-    body<jpggoku7 {
-      font-family: Georgia, sans-serif;
-      margin: 40px;
-    }
+body {
+  font-family: Georgia, sans-serif;
+  margin: 40px;
+}
 
-    /* --- TÍTULO PRINCIPAL h1 --- */
-    h1 {
-      font-size: 36px;
-      text-align: center;
-      margin: 30px 0px;
-      padding: 15px;
-      border-radius: 10px;
-    }
+/* --- TÍTULO PRINCIPAL h1 --- */
+h1 {
+  font-size: 36px;
+  text-align: center;
+  margin: 30px 0px;
+  padding: 15px;
+  border-radius: 10px;
+}
 
-    /* --- SUBTÍTULOS h2 --- */
-    h2 {
-      font-size: 24px;
-      text-align: left;
-      letter-spacing: 1px;
-      margin-top: 35px;
-      margin-bottom: 10px;
-      padding-left: 10px;
-    }
+/* --- SUBTÍTULOS h2 --- */
+h2 {
+  font-size: 24px;
+  text-align: left;
+  letter-spacing: 1px;
+  margin-top: 35px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
 
-    /* --- PÁRRAFOS --- */
-    p, h3, h4 {
-      font-size: 16px;
-      text-align: justify;
-      margin-bottom: 20px;
-      line-height: 1.8;
-      font-weight: normal;
-    }
+/* --- PÁRRAFOS --- */
+p, h3, h4 {
+  font-size: 16px;
+  text-align: justify;
+  margin-bottom: 20px;
+  line-height: 1.8;
+  font-weight: normal;
+}
 
-    /* --- IMAGEN --- */
-    img {
-      width: 100%;
-      max-width: 400px;
-      height: auto;
-      display: block;
-      margin: 25px auto;
-      border-radius: 20px;
-      box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
-    }
+/* --- IMAGEN --- */
+img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin: 25px auto;
+  border-radius: 20px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+}
 
-    /* --- 18. ESTILO PARA LOS ENLACES --- */
-    a {
-      font-size: 16px; /* Tamaño */
-      color: #6a1b9a; /* Color */
-      text-decoration: none; /* Sin subrayado */
-      font-weight: bold; /* Grosor */; /* Fondo */
-      padding: 5px 10px;
-      border-radius: 8px;
-      transition: all 0.3s ease; /* Para que el cambio sea suave */
-    }
+/* --- ESTILO PARA LOS ENLACES --- */
+a {
+  font-size: 16px;
+  color: #6a1b9a;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
 
-    /* Cuando el mouse pasa sobre el enlace */
-    a:hover {
-      font-size: 18px; /* Cambia tamaño */
-      color: white; /* Cambia color de letra */
-      background-color: #8e24aa; /* Cambia fondo */
-      text-decoration: underline; /* Aparece subrayado */
-      font-weight: 900; /* Más grueso */
-    }
+/* Cuando el mouse pasa sobre el enlace */
+a:hover {
+  font-size: 18px;
+  color: white;
+  background-color: #8e24aa;
+  text-decoration: underline;
+  font-weight: 900;
+}
 
-    /* --- 19. ESTILO DEL PIE DE PÁGINA --- */
-    footer {
-      background-color: #4a148c; /* Propiedad 1: fondo diferente */
-      color: white; /* Propiedad 2: color de letra */
-      padding: 25px; /* Propiedad 3: espacio interior */
-      text-align: center; /* Propiedad 4: alineación */
-      border-radius: 15px; /* Propiedad 5: bordes redondeados */
-      margin-top: 40px; /* Propiedad 6: separación del resto */
-    }
-    footer h3 {
-      color: white;
-      margin: 5px;
-      text-align: center;
-      font-size: 15px;
-    }
-  </style>
+/* --- ESTILO DEL PIE DE PÁGINA --- */
+footer {
+  background-color: #4a148c;
+  color: white;
+  padding: 25px;
+  text-align: center;
+  border-radius: 15px;
+  margin-top: 40px;
+}
+
+footer h3 {
+  color: white;
+  margin: 5px;
+  text-align: center;
+  font-size: 15px;
+}
